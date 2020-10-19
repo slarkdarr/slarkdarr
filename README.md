@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on Python or C Problem
 - 💬 Ask me about anything :relaxed:
-- 🥅 My Goal: Becoming an expert in Computer Engineering and being a highly-skilled Software Engineer :computer:
-- ⚡ Fun fact: Besides programming, I like to play piano and guitar :musical_keyboard: :guitar:. I love classical music :musical_score:. I've been playing musical instrument since i was five.
+- 🥅 My Goals: Becoming an expert in Computer Engineering and being a highly-skilled Software Engineer :computer:
+- ⚡ Fun Facts: Besides programming, I like to play piano and guitar :musical_keyboard: :guitar:. I love classical music :musical_score:. I've been playing musical instrument since i was five.
 
 ### Connect with me:
 
