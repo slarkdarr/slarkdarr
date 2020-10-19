@@ -1,16 +1,42 @@
-### Hi there 👋
+### Hi there, I'm Daffa 👋
 
 <!--
-**slarkdarr/slarkdarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**slarkdarr/slarkdarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+## I am currently an Informatics Engineering Student at Institut Teknologi Bandung (ITB)
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning C
+- 👯 I’m looking to collaborate on Python or C Problem
+<!-- - 🤔 I’m looking for help with my learning -->
+- 💬 Ask me about everything :relaxed:
+- 🥅 My Goal: Becoming an expert in Computer Engineering and being a highly-skilled Software Engineer :computer:
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: Besides programming, I like to play piano and guitar :musical_keyboard: :guitar:. I love classical music :musical_score:. I've been playing musical instrument since i was five.
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Daffa | LINE" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/line.svg"  />][line]
+[<img align="left" alt="Daffa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/instagram.svg"  />][instagram]
+[<img align="left" alt="Daffa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />][linkedin]
+[<img align="left" alt="Daffa | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/steam.svg"  />][steam]
+
+<br />
+
+<img align="left" alt="Daffa's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slarkdarr"  />
+
+Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/visualstudiocode.svg"  />
+<img align="left" alt="Sublime Text" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/sublimetext.svg"  />
+<img align="left" alt="Intellij IDEA" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/intellijidea.svg"  />
+
+<br />
+<br />
+
+---
+
+<img align="left" alt="Daffa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=slarkdarr&show_icons=true&theme=radical"  />
+
+[linkedin]: https://www.linkedin.com/in/daffa-ananda
+[line]: https://line.me/ti/p/~daffa_ananda
+[instagram]: https://instagram.com/daffaananda._
+[steam]: https://steamcommunity.com/id/todar21
