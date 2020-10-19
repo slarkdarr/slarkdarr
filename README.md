@@ -34,10 +34,8 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=slarkdarr&show_icons=true&theme=radical"  />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slarkdarr&theme=radical"  />
-
-<br />
+<img float="left" alt="Daffa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=slarkdarr&show_icons=true&theme=radical"  />
+<img float="right" alt="Daffa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slarkdarr&theme=radical"  />
 
 ---
 
