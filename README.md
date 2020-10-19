@@ -34,14 +34,8 @@
 
 ---
 
-<img float="left" alt="Daffa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=slarkdarr&show_icons=true&theme=radical"  />
-<img float="right" alt="Daffa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slarkdarr&theme=radical"  />
-
----
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
+<img align="left" alt="Daffa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=slarkdarr&show_icons=true&theme=radical"  />
+<img align="right" alt="Daffa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slarkdarr&theme=radical"  />
 
 [linkedin]: https://www.linkedin.com/in/daffa-ananda
 [line]: https://line.me/ti/p/~daffa_ananda
