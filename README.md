@@ -37,6 +37,14 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=slarkdarr&show_icons=true&theme=radical"  />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slarkdarr&theme=radical"  />
 
+<br />
+
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
 [linkedin]: https://www.linkedin.com/in/daffa-ananda
 [line]: https://line.me/ti/p/~daffa_ananda
 [instagram]: https://instagram.com/daffaananda._
