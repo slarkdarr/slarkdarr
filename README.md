@@ -21,10 +21,11 @@
 
 <br />
 
-<img align="left" alt="Daffa's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slarkdarr"  />
+### Languages and Tools
 
-Tools:
-
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/python.svg"  />
+<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/c.svg"  />
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/java.svg"  />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/visualstudiocode.svg"  />
 <img align="left" alt="Sublime Text" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/sublimetext.svg"  />
 <img align="left" alt="Intellij IDEA" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/intellijidea.svg"  />
@@ -35,6 +36,11 @@ Tools:
 ---
 
 <img align="left" alt="Daffa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=slarkdarr&show_icons=true&theme=radical"  />
+
+<br />
+<br />
+
+<img align="left" alt="Daffa's Top Languages" width="26px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slarkdarr)]"  />
 
 [linkedin]: https://www.linkedin.com/in/daffa-ananda
 [line]: https://line.me/ti/p/~daffa_ananda
