@@ -3,13 +3,11 @@
 <!--
 **slarkdarr/slarkdarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ## I am currently an Informatics Engineering Student at Institut Teknologi Bandung (ITB)
-<!-- - 🔭 I’m currently working on ... -->
+
 - 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on Python or C Problem
-<!-- - 🤔 I’m looking for help with my learning -->
-- 💬 Ask me about everything :relaxed:
+- 💬 Ask me about anything :relaxed:
 - 🥅 My Goal: Becoming an expert in Computer Engineering and being a highly-skilled Software Engineer :computer:
-<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Besides programming, I like to play piano and guitar :musical_keyboard: :guitar:. I love classical music :musical_score:. I've been playing musical instrument since i was five.
 
 ### Connect with me:
@@ -21,11 +19,12 @@
 
 <br />
 
-### Languages and Tools
+### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/python.svg"  />
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/c.svg"  />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/java.svg"  />
+<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/html5.svg"  />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/visualstudiocode.svg"  />
 <img align="left" alt="Sublime Text" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/sublimetext.svg"  />
 <img align="left" alt="Intellij IDEA" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/intellijidea.svg"  />
@@ -37,10 +36,7 @@
 
 <img align="left" alt="Daffa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=slarkdarr&show_icons=true&theme=radical"  />
 
-<br />
-<br />
-
-<img align="left" alt="Daffa's Top Languages" width="26px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slarkdarr)]"  />
+<img align="right" alt="Daffa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slarkdarr&theme=radical"  />
 
 [linkedin]: https://www.linkedin.com/in/daffa-ananda
 [line]: https://line.me/ti/p/~daffa_ananda
