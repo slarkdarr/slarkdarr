@@ -4,9 +4,10 @@
 **slarkdarr/slarkdarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ## I'm a Sophomore-Year-Student in Informatics Engineering Major at Bandung Institute of Technology
 
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C++ and C#
 - 👯 I’m looking to collaborate on any programming problems
 - 💬 Ask me about anything :relaxed:
+- 🤖 I'm currently making a discord bot using python and repl.it tools
 - 🥅 My Goals: Becoming an expert in Computer Engineering and being a highly-skilled Full-Stack Developer :computer:
 - ⚡ Fun Facts: Besides programming, I like to play piano and guitar :musical_keyboard: :guitar:. I love classical music :musical_score:. I've been playing some musical instruments since I was five.
 
