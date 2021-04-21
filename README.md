@@ -25,8 +25,11 @@
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/python.svg"  />
 <img align="left" alt="Haskell" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/haskell.svg" />
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/c.svg"  />
+<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg"  />
+<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg"  />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/java.svg"  />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/html5.svg"  />
+<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flask.svg"  />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/visualstudiocode.svg"  />
 <img align="left" alt="Sublime Text" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/sublimetext.svg"  />
 <img align="left" alt="Intellij IDEA" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/intellijidea.svg"  />
