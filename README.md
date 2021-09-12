@@ -10,13 +10,13 @@
 - 🤖 I'm currently making a discord bot using discord.py module
 - 🥅 My Goals: AI Expert 🤖 and Professional Full-Stack Developer :computer:
 - ⚡ Fun Facts: Besides programming, I love to play piano and guitar :musical_keyboard: :guitar:. I love classical music as well :musical_score:.
-
+<!-- 
 ### Connect with me:
 
 [<img align="left" alt="Daffa | LINE" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/line.svg"  />][line]
 [<img align="left" alt="Daffa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/instagram.svg"  />][instagram]
 [<img align="left" alt="Daffa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />][linkedin]
-[<img align="left" alt="Daffa | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/steam.svg"  />][steam]
+[<img align="left" alt="Daffa | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/steam.svg"  />][steam] -->
 
 <br />
 
