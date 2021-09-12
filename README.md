@@ -16,9 +16,9 @@
 [<img align="left" alt="Daffa | LINE" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/line.svg"  />][line]
 [<img align="left" alt="Daffa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/instagram.svg"  />][instagram]
 [<img align="left" alt="Daffa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />][linkedin]
-[<img align="left" alt="Daffa | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/steam.svg"  />][steam] -->
+[<img align="left" alt="Daffa | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/steam.svg"  />][steam]
 
-<br />
+<br /> -->
 
 ### Languages and Tools:
 
