@@ -9,7 +9,7 @@
 - 💬 Ask me about anything :relaxed:
 - 🤖 I'm currently making a discord bot using discord.py module
 - 🥅 My Goals: AI Expert 🤖 and Professional Full-Stack Developer :computer:
-- ⚡ Fun Facts: Besides programming, I like to play piano and guitar :musical_keyboard: :guitar:. I love classical music :musical_score:. I've been playing some musical instruments since I was five.
+- ⚡ Fun Facts: Besides programming, I love to play piano and guitar :musical_keyboard: :guitar:. I love classical music as well :musical_score:.
 
 ### Connect with me:
 
