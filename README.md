@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Web Developing and Artificial Intelligence
 - 👯 I’m looking to collaborate on any programming problems
 - 💬 Ask me about anything :relaxed:
-- 🤖 I'm currently making a discord bot using python and repl.it tools
+- 🤖 I'm currently making a discord bot using discord.py module
 - 🥅 My Goals: AI Expert 🤖 and Professional Full-Stack Developer :computer:
 - ⚡ Fun Facts: Besides programming, I like to play piano and guitar :musical_keyboard: :guitar:. I love classical music :musical_score:. I've been playing some musical instruments since I was five.
 
