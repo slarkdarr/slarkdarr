@@ -4,10 +4,10 @@
 **slarkdarr/slarkdarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ## I'm a Junior Student in Informatics Engineering Major at Bandung Institute of Technology
 
-- 🌱 I’m currently learning Web Developing and Artificial Intelligence
+- 🌱 I’m currently learning Platform-based Application Development and Machine Learning
 - 👯 I’m looking to collaborate on any programming problems
 - 💬 Ask me about anything :relaxed:
-- 🤖 I'm currently making a discord bot using discord.py module
+- 🤖 I'm currently making a discord bot using discord.js module and I'm also doing a project about Platform-based Application Development
 - 🥅 My Goals: AI Expert 🤖 and Professional Full-Stack Developer :computer:
 - ⚡ Fun Facts: Besides programming, I love to play piano and guitar :musical_keyboard: :guitar:. I love classical music as well :musical_score:.
 <!-- 
@@ -28,8 +28,9 @@
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg"  />
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg"  />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/java.svg"  />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/html5.svg"  />
-<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flask.svg"  />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/javascript.svg"  />
+<img align="left" alt=".NET" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/dot-net.svg"  />
+<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/visualstudio.svg"  />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/visualstudiocode.svg"  />
 <img align="left" alt="Sublime Text" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/sublimetext.svg"  />
 <img align="left" alt="Intellij IDEA" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/intellijidea.svg"  />
