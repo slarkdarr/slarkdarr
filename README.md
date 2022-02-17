@@ -29,6 +29,7 @@
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg"  />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/java.svg"  />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/javascript.svg"  />
+<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/jupyter.svg"  />
 <img align="left" alt=".NET" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/dot-net.svg"  />
 <img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/visualstudio.svg"  />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/visualstudiocode.svg"  />
