@@ -2,7 +2,7 @@
 
 <!--
 **slarkdarr/slarkdarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-## My name is Daffa Ananda Pratama Resyaly, but you can just call me Daffa. I'm a Junior Student in Informatics Engineering Major at Bandung Institute of Technology
+## My name is Daffa Ananda Pratama Resyaly. I'm a Junior Student in Informatics Engineering Major at Bandung Institute of Technology
 
 - 🌱 I’m currently learning Platform-based Application Development and Machine Learning
 - 👯 I’m looking to collaborate on any programming problems
