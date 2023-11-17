@@ -2,13 +2,13 @@
 
 <!--
 **slarkdarr/slarkdarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-## My name is Daffa Ananda Pratama Resyaly. I'm a Final Year Student in Informatics Engineering Major at Bandung Institute of Technology
+## My name is Daffa Ananda Pratama Resyaly. I'm a Sophomore Student in Master of Informatics Engineering Major at Bandung Institute of Technology
 
-- 🌱 I’m currently learning Cryptograph
+- 🌱 I’m currently learning Machine Learning for Data Science
 - 👯 I’m looking to collaborate on any programming problems
 - 💬 Ask me about anything :relaxed:
-- 🤖 I'm currently making a discord bot using discord.js module and I'm also doing a project about Platform-based Application Development
-- 🥅 My Goals: AI Expert 🤖 and Professional Full-Stack Developer :computer:
+- 🤖 I'm currently doing a project to develop a website as my CV
+- 🥅 My Goals: Data Science Expert 🤖 and Professional Full-Stack Developer :computer:
 - ⚡ Fun Facts: Besides programming, I love to play piano and guitar :musical_keyboard: :guitar:. I love classical music as well :musical_score:.
 <!-- 
 ### Connect with me:
