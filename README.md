@@ -4,6 +4,8 @@
 **slarkdarr/slarkdarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ## My name is Daffa Ananda Pratama Resyaly. I'm a Sophomore Student in Master of Informatics Engineering Major at Bandung Institute of Technology
 
+<img src="https://upload.wikimedia.org/wikipedia/id/9/95/Logo_Institut_Teknologi_Bandung.png" alt="ITB Logo" width="200" />
+
 - 🌱 I’m currently learning Machine Learning for Data Science
 - 👯 I’m looking to collaborate on any programming problems
 - 💬 Ask me about anything :relaxed:
